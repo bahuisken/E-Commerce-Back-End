@@ -39,7 +39,7 @@ npm run start
 
 - Use Insomnia Core, or Postman, etc... To Get, Post, Put and Delete data within the ecommerce_db.
 
-[Click here for a video walkthrough of this application](TBD)
+[Click here for a video walkthrough of this application](https://drive.google.com/file/d/1twFV2KlE8qQyGEmA4WhGSBut-9bgNqP-/view?usp=sharing)
 
 - The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
 
